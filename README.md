@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Aviral
 - 👀 I’m interested in frontend development, learning different languages, and creative code
 - 🌱 I’m currently learning Elixir & Phoenix framework
-- 📫 Reach me on twitter at id_functor
 
 <!---
 idfunctor/idfunctor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
